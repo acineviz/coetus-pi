@@ -50,7 +50,7 @@ sudo apt update
 sudo apt install -y build-essential cmake git libsdl2-dev libgles2-mesa-dev libdrm-dev libgbm-dev
 
 2. Clone & Compile
-git clone [https://github.com/YOUR_USERNAME/coetus-pi.git](https://github.com/YOUR_USERNAME/coetus-pi.git)
+git clone [https://github.com/acineviz/coetus-pi.git](https://github.com/YOUR_USERNAME/coetus-pi.git)
 cd coetus-pi
 mkdir build && cd build
 cmake ..
