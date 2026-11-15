@@ -23,16 +23,16 @@ Coetus-Pi transforms a standard Raspberry Pi into a dedicated gaming console. By
 
 ## 🏗️ Architecture
 
-+-------------------------------------------------------+
-|                Coetus-Pi Console UI                   |
-|        (C++ / SDL2 / OpenGL ES - Hardware Accel)      |
-+-------------------------------------------------------+
-|              Input (evdev) & Audio (ALSA)             |
-+-------------------------------------------------------+
-|           Linux Kernel + KMS/DRM + Mesa V3D           |
-+-------------------------------------------------------+
-|             Raspberry Pi Hardware (ARM64)             |
-+-------------------------------------------------------+
+    +-------------------------------------------------------+ 
+    |                Coetus-Pi Console UI                   |
+    |        (C++ / SDL2 / OpenGL ES - Hardware Accel)      |
+    +-------------------------------------------------------+
+    |              Input (evdev) & Audio (ALSA)             |
+    +-------------------------------------------------------+
+    |           Linux Kernel + KMS/DRM + Mesa V3D           |
+    +-------------------------------------------------------+
+    |             Raspberry Pi Hardware (ARM64)             |
+    +-------------------------------------------------------+
 
 
 🛠️ Prerequisites & Hardware Support
