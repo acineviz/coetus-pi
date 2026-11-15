@@ -34,6 +34,7 @@ Coetus-Pi transforms a standard Raspberry Pi into a dedicated gaming console. By
 |             Raspberry Pi Hardware (ARM64)             |
 +-------------------------------------------------------+
 
+
 🛠️ Prerequisites & Hardware Support
 Supported Hardware: Raspberry Pi 4 Model B, Raspberry Pi 5 (Raspberry Pi 3B+ supported with reduced visual effects).
 
